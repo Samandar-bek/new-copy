@@ -63,7 +63,6 @@ markdown-it-py==4.0.0
 MarkupSafe==3.0.3
 matplotlib==3.10.7
 mdurl==0.1.2
-mediapipe==0.10.14
 ml_dtypes==0.5.3
 mtcnn==1.0.0
 multidict==6.4.4
